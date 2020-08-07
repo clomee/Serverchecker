@@ -1,0 +1,7 @@
+add - add a new Server (requires URL, Name and length to check)
+show - shows all servers which you are observing
+start - start monitoring, if you change the HTML it will send an email to the email account given
+export - exports the server list so you can import it later
+import - imports a server list made with the export function or in the same format
+change - you can change the URL, name or length of one server in the server list
+commands - shows this list
